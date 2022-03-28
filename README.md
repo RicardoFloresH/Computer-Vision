@@ -1,5 +1,5 @@
 # Computer Vision
 
 ## Introduction
-## LSTM
+## Convolutional Neural Networks (CNN)
 ## Transfer Learning
